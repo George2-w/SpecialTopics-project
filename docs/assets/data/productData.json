@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Custom Keyboard",
+    "description": "Custom Keyboard",
+    "price": 499,
+    "availability": "available",
+    "image": "http://localhost:4093/images/key-skull"
+    
+  },
+  {
+    "name": "Game gamepad",
+    "description": "Game pad",
+    "price": 573,
+    "availability": "available",
+    "image": "http://localhost:4093/images/red-pad"
+    
+  },
+
+  {
+    "name": "Glass gamepad",
+    "description": "Glass gamepad",
+    "price": 1999,
+    "availability": "available",
+    "image": " http://localhost:4093/images/see-game"
+    
+  },
+  {
+    "name": "X box gamepad",
+    "description": "X box gamepad",
+    "price": 995,
+    "availability": "available",
+    "image": " http://localhost:4093/images/x-box-A"
+    
+  },
+  {
+    "name": "silver x-box",
+    "description": "silver x-box",
+    "price": 995,
+    "availability": "available",
+    "image": " http://localhost:4093/images/x-boxSilver"
+    
+  },
+  {
+    "name": "Drone",
+    "description": "drone",
+    "price": 995,
+    "availability": "available",
+    "image": " http://localhost:4093/images/x-gamepad"
+    
+  }
+]
